@@ -1,3 +1,8 @@
+### 0.6.1 - 2024-03-06
+
+* bug fixes
+  * Ensure middleware can handle Rails 7.1 root path
+
 ### 0.6.0 - 2019-04-11
 
 * enhancements
